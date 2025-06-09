@@ -1,5 +1,5 @@
 - Hi, I'm Jason!
-- I'm currently using this Github to learn Kubernetes and CI/CD, to expand my cloud computing/development toolset!
+- I'm currently using this Github to store all my various projects.
 - It's currently pretty bare, but eventually it'll expand!
 
 <!---
